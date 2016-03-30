@@ -1,0 +1,74 @@
+
+body {font-family: 'Open Sans', sans-serif;}
+#title {
+  text-align: center;
+  padding: 10px;
+  background-color: #008040;
+  border-radius: 10px;
+
+}
+#feature_img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+img {
+  border-radius: 10px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+u {
+  color: purple;
+}
+
+
+#video {
+  text-align: center;
+}
+.container_12 {
+  background-color: #4dffa6;
+  padding: 50px;
+  border-radius: 15px;
+}
+
+.underText {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.caption {
+  z-index:100;
+    position:absolute;;
+    color:white;
+    font-size:24px;
+    font-weight:bold;
+    left:500px;
+    bottom:300px;
+    background-color: rgba(5, 5, 5, 0.45);
+
+    opacity: 1;
+}
+
+#feature:hover .caption {
+  opacity: 1;
+}
+
+iframe {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#Art Market h2 {
+  text-align: center;
+}
+
+footer p {
+  text-align: center;
+}
